@@ -1,6 +1,9 @@
 # XCFrameworkScripts
 Useful Scripts used to build XCFramework and links to related tools. 
 
+# Introduction
+The following scripts can be copy pasted to terminal (Make sure you are inside a project folder) and produce .framework then the final script is used to combine the individual generated archives into single .XCFramework ready for distribution. 
+
 # Build for iOS iPhone (Release)
 
 ```shell
