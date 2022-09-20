@@ -75,3 +75,4 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
 # Credits
 1. [Raywenderlich -> Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios#toc-anchor-002)
+2. [Official Apple Docs -> Create an XCFramework](https://help.apple.com/xcode/mac/11.4/#/dev544efab96)
