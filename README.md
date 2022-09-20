@@ -8,7 +8,7 @@ xcodebuild archive \
 -scheme <YOUR FRAMEWORK NAME> \
 -configuration Release \
 -destination 'generic/platform=iOS' \
--archivePath './build/CalendarControl.framework-iphoneos.xcarchive' \
+-archivePath './build/<YOUR FRAMEWORK NAME>.framework-iphoneos.xcarchive' \
 SKIP_INSTALL=NO \
 BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
