@@ -76,3 +76,21 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 # Credits
 1. [Raywenderlich -> Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios#toc-anchor-002)
 2. [Official Apple Docs -> Create an XCFramework](https://help.apple.com/xcode/mac/11.4/#/dev544efab96)
+  
+# Other Learning Materials
+- [WWDC 2019: Adopt Swift Packages in Xcode](https://developer.apple.com/wwdc19/408)
+
+- [WWDC 2019: Binary frameworks in Swift](https://developer.apple.com/wwdc19/416)
+  
+- [WWDC 2019: Adopt Swift Packages in Xcode](https://developer.apple.com/wwdc19/408)
+
+
+- [WWDC 2020: Distribute Binary frameworks as Swift packages](https://developer.apple.com/wwdc20/10147)
+
+- [WWDC 2021: Swift packages collections (grouping)](https://developer.apple.com/wwdc21/10197)
+
+
+- [WWDC 2020, Creating Swift packages](https://developer.apple.com/wwdc19/410)
+
+
+- [WWDC 2022: Swift package plugins](https://developer.apple.com/wwdc22/110359)
