@@ -39,6 +39,22 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
 1. **-destination ‘generic/platform=iOS Simulator’**: This is where you set the architecture type.
 2. **-archivePath**: This generates the archive into the folder path with the given name.
+   
+# Build for macOS (Release)
+  ```shell
+  xcodebuild archive \
+-scheme <YOUR FRAMEWORK NAME> \
+-configuration Release \
+-destination 'platform=macOS,arch=x86_64,variant=Mac Catalyst' \
+-archivePath './build/<YOUR FRAMEWORK NAME>.framework-catalyst.xcarchive' \
+SKIP_INSTALL=NO \
+BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
+  ```
+  
+  This command is the same as the others except for the following differences:
+
+1. **-destination ‘platform=macOS,arch=x86_64,variant=Mac Catalyst’**: This is where you indicate the architecture type.
+2. **-archivePath**: This generates the archive into the folder path with the given name.
 
 
 
