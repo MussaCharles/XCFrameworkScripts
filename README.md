@@ -60,6 +60,17 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 2. **-archivePath**: This generates the archive into the folder path with the given name.
 
 
+  # Generate XCFramework
+  This command adds your XCFramework to the build folder using the generated archives above.
+  ```shell
+  xcodebuild -create-xcframework \
+-framework './build/<YOUR FRAMEWORK NAME>.framework-iphonesimulator.xcarchive/Products/Library/Frameworks/<YOUR FRAMEWORK NAME>.framework' \
+-framework './build/<YOUR FRAMEWORK NAME>.framework-iphoneos.xcarchive/Products/Library/Frameworks/<YOUR FRAMEWORK NAME>.framework' \
+-framework './build/<YOUR FRAMEWORK NAME>.framework-catalyst.xcarchive/Products/Library/Frameworks/<YOUR FRAMEWORK NAME>.framework' \
+-output './build/<YOUR FRAMEWORK NAME>.xcframework'
+  ```
+  
+  
 
 
 # Credits
