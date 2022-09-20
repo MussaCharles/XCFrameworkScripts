@@ -1,2 +1,3 @@
 # XCFrameworkScripts
-Scripts used to build XCFramework. 
+Useful Scripts used to build XCFramework and links to related tools. 
+
