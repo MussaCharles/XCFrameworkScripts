@@ -1,7 +1,7 @@
 # XCFrameworkScripts
 Useful Scripts used to build XCFramework and links to related tools. 
 
-# Build for iOS Release (iPhone)
+# Build for iOS iPhone (Release)
 
 ```swift
 xcodebuild archive \
@@ -23,6 +23,8 @@ The above command will generate an archive of your framework by using the follow
 6. **BUILD_LIBRARIES_FOR_DISTRIBUTION**: Ensures your libraries are built for distribution and creates the interface file.
 
 
+
+# Build for iOS Simulator (Release)
 
 
 
