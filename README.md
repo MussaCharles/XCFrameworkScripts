@@ -25,6 +25,15 @@ The above command will generate an archive of your framework by using the follow
 
 
 # Build for iOS Simulator (Release)
+```shell
+xcodebuild archive \
+-scheme <YOUR FRAMEWORK NAME> \
+-configuration Release \
+-destination 'generic/platform=iOS Simulator' \
+-archivePath './build/<YOUR FRAMEWORK NAME>.framework-iphonesimulator.xcarchive' \
+SKIP_INSTALL=NO \
+BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
+```
 
 
 
