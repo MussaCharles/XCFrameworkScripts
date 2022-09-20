@@ -3,7 +3,7 @@ Useful Scripts used to build XCFramework and links to related tools.
 
 # Build for iOS iPhone (Release)
 
-```swift
+```shell
 xcodebuild archive \
 -scheme <YOUR FRAMEWORK NAME> \
 -configuration Release \
