@@ -34,6 +34,11 @@ xcodebuild archive \
 SKIP_INSTALL=NO \
 BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 ```
+  
+  These command options are the same as those for iOS except for the following differences:
+
+1. **-destination ‘generic/platform=iOS Simulator’**: This is where you set the architecture type.
+2. **-archivePath**: This generates the archive into the folder path with the given name.
 
 
 
