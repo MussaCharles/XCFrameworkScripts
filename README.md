@@ -92,9 +92,9 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
 - [WWDC 2021: Swift packages collections (grouping)](https://developer.apple.com/wwdc21/10197)
 
-
-
 - [WWDC 2022: Swift package plugins](https://developer.apple.com/wwdc22/110359)
+
+- [Swift by Sundell:Managing dependencies using the Swift Package Manager](https://www.swiftbysundell.com/articles/managing-dependencies-using-the-swift-package-manager/)
 
 ## Related open source projects
 The following is the list of open source projects which automate the process or creating frameworks. 
