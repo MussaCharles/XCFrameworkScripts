@@ -70,29 +70,25 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 -output './build/<YOUR FRAMEWORK NAME>.xcframework'
   ```
   
-  
-
-
 ## Credits
 1. [Raywenderlich -> Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios#toc-anchor-002)
 2. [Official Apple Docs -> Create an XCFramework](https://help.apple.com/xcode/mac/11.4/#/dev544efab96)
 3. [Raywenderlich -> Swift Package Manager for iOS](https://www.raywenderlich.com/7242045-swift-package-manager-for-ios)
   
 # Other Learning Materials
+- [Package Manager Official Documentation](https://www.swift.org/package-manager/) 
+
+- [WWDC 2018: Getting to Know Swift Package Manager](https://developer.apple.com/videos/play/wwdc2018/411/)
+
 - [WWDC 2019: Adopt Swift Packages in Xcode](https://developer.apple.com/wwdc19/408)
 
 - [WWDC 2019: Binary frameworks in Swift](https://developer.apple.com/wwdc19/416)
   
-- [WWDC 2019: Adopt Swift Packages in Xcode](https://developer.apple.com/wwdc19/408)
-
-
 - [WWDC 2020: Distribute Binary frameworks as Swift packages](https://developer.apple.com/wwdc20/10147)
 
 - [WWDC 2021: Swift packages collections (grouping)](https://developer.apple.com/wwdc21/10197)
 
-
 - [WWDC 2020, Creating Swift packages](https://developer.apple.com/wwdc19/410)
-
 
 - [WWDC 2022: Swift package plugins](https://developer.apple.com/wwdc22/110359)
 
