@@ -108,6 +108,8 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
 - [Article: Creating a Swift Package from an existing iOS Framework (Library)](https://emmanuelkehinde.io/creating-a-swift-package-from-an-existing-ios-framework-library/)
 
+- [Apple Docs: Bundling Resources with a Swift Package](https://developer.apple.com/documentation/xcode/bundling-resources-with-a-swift-package)
+
 ## Related open source projects
 The following is the list of open source projects which automate the process or creating frameworks. 
 - [swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) 
