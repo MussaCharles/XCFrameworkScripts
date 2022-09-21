@@ -95,6 +95,8 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 - [WWDC 2022: Swift package plugins](https://developer.apple.com/wwdc22/110359)
 
 - [Swift by Sundell:Managing dependencies using the Swift Package Manager](https://www.swiftbysundell.com/articles/managing-dependencies-using-the-swift-package-manager/)
+  
+- [Apple Docs: Distributing Binary Frameworks as Swift Packages](https://developer.apple.com/documentation/xcode/distributing-binary-frameworks-as-swift-packages) 
 
 ## Related open source projects
 The following is the list of open source projects which automate the process or creating frameworks. 
