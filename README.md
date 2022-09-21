@@ -78,6 +78,8 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 # Other Learning Materials
 - [Package Manager Official Documentation](https://www.swift.org/package-manager/) 
 
+- [SPM Package manifest file docs](https://docs.swift.org/package-manager/PackageDescription/PackageDescription.html)
+
 - [WWDC 2018: Getting to Know Swift Package Manager](https://developer.apple.com/videos/play/wwdc2018/411/)
 
 - [WWDC 2019, Creating Swift packages](https://developer.apple.com/wwdc19/410)
