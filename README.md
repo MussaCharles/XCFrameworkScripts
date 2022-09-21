@@ -102,6 +102,8 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
   
 - [Medium: Binary Frameworks in Swift — XCFrameworks](https://medium.com/macoclock/binary-frameworks-in-swift-xcframeworks-5bd35f50e13a) 
 
+- [Apple Docs: Creating a Standalone Swift Package with Xcode](https://developer.apple.com/documentation/xcode/creating-a-standalone-swift-package-with-xcode)
+
 ## Related open source projects
 The following is the list of open source projects which automate the process or creating frameworks. 
 - [swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) 
