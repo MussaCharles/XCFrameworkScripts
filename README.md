@@ -80,6 +80,8 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
 - [WWDC 2018: Getting to Know Swift Package Manager](https://developer.apple.com/videos/play/wwdc2018/411/)
 
+- [WWDC 2019, Creating Swift packages](https://developer.apple.com/wwdc19/410)
+
 - [WWDC 2019: Adopt Swift Packages in Xcode](https://developer.apple.com/wwdc19/408)
 
 - [WWDC 2019: Binary frameworks in Swift](https://developer.apple.com/wwdc19/416)
@@ -88,7 +90,7 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
 - [WWDC 2021: Swift packages collections (grouping)](https://developer.apple.com/wwdc21/10197)
 
-- [WWDC 2020, Creating Swift packages](https://developer.apple.com/wwdc19/410)
+
 
 - [WWDC 2022: Swift package plugins](https://developer.apple.com/wwdc22/110359)
 
