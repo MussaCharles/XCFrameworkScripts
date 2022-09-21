@@ -1,10 +1,10 @@
 # XCFrameworkScripts
 Useful Scripts used to build XCFramework and links to learning materials. 
 
-# Introduction
+## Introduction
 The following scripts can be copy pasted to terminal (Make sure you are inside a project folder) and produce .framework then the final script is used to combine the individual generated archives into single .XCFramework ready for distribution. 
 
-# Build for iOS iPhone (Release)
+## Build for iOS iPhone (Release)
 
 ```shell
 xcodebuild archive \
@@ -27,7 +27,7 @@ The above command will generate an archive of your framework by using the follow
 
 
 
-# Build for iOS Simulator (Release)
+## Build for iOS Simulator (Release)
 ```shell
 xcodebuild archive \
 -scheme <YOUR FRAMEWORK NAME> \
@@ -43,7 +43,7 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 1. **-destination ‘generic/platform=iOS Simulator’**: This is where you set the architecture type.
 2. **-archivePath**: This generates the archive into the folder path with the given name.
    
-# Build for macOS (Release)
+## Build for macOS (Release)
   ```shell
   xcodebuild archive \
 -scheme <YOUR FRAMEWORK NAME> \
@@ -60,7 +60,7 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 2. **-archivePath**: This generates the archive into the folder path with the given name.
 
 
-  # Generate XCFramework
+  ## Generate XCFramework
   This command adds your XCFramework to the build folder using the generated archives above.
   ```shell
   xcodebuild -create-xcframework \
@@ -73,7 +73,7 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
   
 
 
-# Credits
+## Credits
 1. [Raywenderlich -> Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios#toc-anchor-002)
 2. [Official Apple Docs -> Create an XCFramework](https://help.apple.com/xcode/mac/11.4/#/dev544efab96)
 3. [Raywenderlich -> Swift Package Manager for iOS](https://www.raywenderlich.com/7242045-swift-package-manager-for-ios)
@@ -95,3 +95,8 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
 
 - [WWDC 2022: Swift package plugins](https://developer.apple.com/wwdc22/110359)
+
+## Related open source projects
+The following is the list of open source projects which automate the process or creating frameworks. 
+- [swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) 
+- [surmagic](https://github.com/gurhub/surmagic) 
