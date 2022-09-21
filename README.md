@@ -4,7 +4,9 @@ Useful Scripts used to build XCFramework and links to learning materials.
 ## Introduction
 The following scripts can be copy pasted to terminal (Make sure you are inside a project folder) and produce .framework then the final script is used to combine the individual generated archives into single .XCFramework ready for distribution. 
 
-## Build for iOS iPhone (Release)
+Note: Before creating an xcframework builds needs to be archived for all supported architectures as shown on the steps below.  
+
+## Archive for iOS iPhone (Release)
 
 ```shell
 xcodebuild archive \
@@ -27,7 +29,7 @@ The above command will generate an archive of your framework by using the follow
 
 
 
-## Build for iOS Simulator (Release)
+## Archive for iOS Simulator (Release)
 ```shell
 xcodebuild archive \
 -scheme <YOUR FRAMEWORK NAME> \
@@ -43,7 +45,7 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 1. **-destination ‘generic/platform=iOS Simulator’**: This is where you set the architecture type.
 2. **-archivePath**: This generates the archive into the folder path with the given name.
    
-## Build for macOS (Release)
+## Archive for macOS (Release)
   ```shell
   xcodebuild archive \
 -scheme <YOUR FRAMEWORK NAME> \
