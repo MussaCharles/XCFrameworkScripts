@@ -110,6 +110,9 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
 - [Apple Docs: Bundling Resources with a Swift Package](https://developer.apple.com/documentation/xcode/bundling-resources-with-a-swift-package)
 
+- [Stackoverflow: Add demo app to SPM](https://stackoverflow.com/a/69659509/7551807)
+  - As a side note, project should be closed before following the steps on the linked answer. 
+
 ## Related open source projects
 The following is the list of open source projects which automate the process or creating frameworks. 
 - [swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) 
