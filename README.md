@@ -112,6 +112,8 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
 - [Stackoverflow: Add demo app to SPM](https://stackoverflow.com/a/69659509/7551807)
   - As a side note, project should be closed before following the steps on the linked answer. 
+  
+- [Medium article: SPM with mixed Swift and ObjC files](https://joesusnick.medium.com/swift-package-manager-with-a-mixed-swift-and-objective-c-project-part-1-2-19fbb43d0460)
 
 ## Related open source projects
 The following is the list of open source projects which automate the process or creating frameworks. 
