@@ -115,6 +115,10 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
   
 - [Medium article: SPM with mixed Swift and ObjC files](https://joesusnick.medium.com/swift-package-manager-with-a-mixed-swift-and-objective-c-project-part-1-2-19fbb43d0460)
 
+- [Apple Docs: Organizing Your Code with Local Packages](https://developer.apple.com/documentation/xcode/organizing-your-code-with-local-packages)
+
+- [Apple Docs: Developing a Swift Package in Tandem with an App](https://developer.apple.com/documentation/xcode/developing-a-swift-package-in-tandem-with-an-app)
+
 ## Related open source projects
 The following is the list of open source projects which automate the process or creating frameworks. 
 - [swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) 
