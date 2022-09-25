@@ -71,13 +71,10 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 -framework './build/<YOUR FRAMEWORK NAME>.framework-catalyst.xcarchive/Products/Library/Frameworks/<YOUR FRAMEWORK NAME>.framework' \
 -output './build/<YOUR FRAMEWORK NAME>.xcframework'
   ```
-  
-## Credits
-1. [Raywenderlich -> Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios#toc-anchor-002)
-2. [Official Apple Docs -> Create an XCFramework](https://help.apple.com/xcode/mac/11.4/#/dev544efab96)
-3. [Raywenderlich -> Swift Package Manager for iOS](https://www.raywenderlich.com/7242045-swift-package-manager-for-ios)
-  
-# Other Learning Materials
+ 
+#  Learning Materials
+As I was working working with XCFrameworks, I found the following online learning materials to be very helpful. These can act as a shortcut to quickly read or watch about frameworks or packages without spending much time to search on the web. 
+
 - [Package Manager Official Documentation](https://www.swift.org/package-manager/) 
 
 - [SPM Package manifest file docs](https://docs.swift.org/package-manager/PackageDescription/PackageDescription.html)
@@ -120,6 +117,11 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 - [Apple Docs: Developing a Swift Package in Tandem with an App](https://developer.apple.com/documentation/xcode/developing-a-swift-package-in-tandem-with-an-app)
 
 - [Apple Docs: Editing a Package Dependency as a Local Package](https://developer.apple.com/documentation/xcode/editing-a-package-dependency-as-a-local-package)
+
+## Credits
+1. [Raywenderlich -> Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios#toc-anchor-002)
+2. [Official Apple Docs -> Create an XCFramework](https://help.apple.com/xcode/mac/11.4/#/dev544efab96)
+3. [Raywenderlich -> Swift Package Manager for iOS](https://www.raywenderlich.com/7242045-swift-package-manager-for-ios)
 
 ## Related open source projects
 The following is the list of open source projects which automate the process or creating frameworks. 
