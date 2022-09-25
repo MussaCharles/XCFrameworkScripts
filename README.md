@@ -118,6 +118,8 @@ As I was working working with XCFrameworks, I found the following online learnin
 
 - [Apple Docs: Editing a Package Dependency as a Local Package](https://developer.apple.com/documentation/xcode/editing-a-package-dependency-as-a-local-package)
 
+- [Swift Heroes: Advanced Swift Package Manager](https://www.youtube.com/watch?v=g9bBph435Lc&ab_channel=SwiftHeroes)
+
 ## Credits
 1. [Raywenderlich -> Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios#toc-anchor-002)
 2. [Official Apple Docs -> Create an XCFramework](https://help.apple.com/xcode/mac/11.4/#/dev544efab96)
