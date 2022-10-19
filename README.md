@@ -114,7 +114,7 @@ As I was working working with XCFrameworks, I found the following online learnin
 
 2. Medium -> [Creating XCFramework from Swift Package](https://mustafa-ysf.medium.com/creating-xcframework-from-swift-package-e8af6f44501f)
 
-3. Article -> [How to create a Swift Package from a CocoaPods project](https://emmanuelkehinde.io/creating-a-swift-package-from-an-existing-ios-framework-library/)
+3. Article -> [How to create a Swift Package from a CocoaPods project](https://dragosneagu.com/how-to-create-a-swift-package-from-an-existing-cocoapods-project/)
 
 
 ## Binary Frameworks
