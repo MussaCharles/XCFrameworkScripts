@@ -110,9 +110,11 @@ As I was working working with XCFrameworks, I found the following online learnin
 - [Swift Heroes: Advanced Swift Package Manager](https://www.youtube.com/watch?v=g9bBph435Lc&ab_channel=SwiftHeroes)
 
 ## Adding SPM to existing frameworks/libraries
-1. Article: [Creating a Swift Package from an existing iOS Framework (Library)](https://emmanuelkehinde.io/creating-a-swift-package-from-an-existing-ios-framework-library/)
+1. Article ->  [Creating a Swift Package from an existing iOS Framework (Library)](https://emmanuelkehinde.io/creating-a-swift-package-from-an-existing-ios-framework-library/)
 
-2. [Medium: Creating XCFramework from Swift Package](https://mustafa-ysf.medium.com/creating-xcframework-from-swift-package-e8af6f44501f)
+2. Medium -> [Creating XCFramework from Swift Package](https://mustafa-ysf.medium.com/creating-xcframework-from-swift-package-e8af6f44501f)
+
+3. Article -> [How to create a Swift Package from a CocoaPods project](https://emmanuelkehinde.io/creating-a-swift-package-from-an-existing-ios-framework-library/)
 
 
 ## Binary Frameworks
