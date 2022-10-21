@@ -75,7 +75,28 @@ BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 #  Learning Materials
 As I was working working with XCFrameworks, I found the following online learning materials to be very helpful. These can act as a shortcut to quickly read or watch about frameworks or packages without spending much time to search on the web. 
 
-## General
+
+## Binary Frameworks
+1. [Apple Docs: Distributing Binary Frameworks as Swift Packages](https://developer.apple.com/documentation/xcode/distributing-binary-frameworks-as-swift-packages)
+
+2. [Medium: Binary Frameworks in Swift — XCFrameworks](https://medium.com/macoclock/binary-frameworks-in-swift-xcframeworks-5bd35f50e13a) 
+
+3. [WWDC 2019: Binary frameworks in Swift](https://developer.apple.com/wwdc19/416)
+  
+4. [WWDC 2020: Distribute Binary frameworks as Swift packages](https://developer.apple.com/wwdc20/10147)
+
+5. [iOS Deep Understanding of Libraries and Frameworks](https://www.youtube.com/watch?v=lGG0UPdvc54&t=1225s&ab_channel=WizelineAcademy)
+
+## Adding SPM to existing frameworks/libraries
+1. Article ->  [Creating a Swift Package from an existing iOS Framework (Library)](https://emmanuelkehinde.io/creating-a-swift-package-from-an-existing-ios-framework-library/)
+
+2. Medium -> [Creating XCFramework from Swift Package](https://mustafa-ysf.medium.com/creating-xcframework-from-swift-package-e8af6f44501f)
+
+3. Article -> [How to create a Swift Package from a CocoaPods project](https://dragosneagu.com/how-to-create-a-swift-package-from-an-existing-cocoapods-project/)
+
+
+## Swift Package Manager
+
 - [Package Manager Official Documentation](https://www.swift.org/package-manager/) 
 
 - [SPM Package manifest file docs](https://docs.swift.org/package-manager/PackageDescription/PackageDescription.html)
@@ -109,23 +130,6 @@ As I was working working with XCFrameworks, I found the following online learnin
 
 - [Swift Heroes: Advanced Swift Package Manager](https://www.youtube.com/watch?v=g9bBph435Lc&ab_channel=SwiftHeroes)
 
-## Adding SPM to existing frameworks/libraries
-1. Article ->  [Creating a Swift Package from an existing iOS Framework (Library)](https://emmanuelkehinde.io/creating-a-swift-package-from-an-existing-ios-framework-library/)
-
-2. Medium -> [Creating XCFramework from Swift Package](https://mustafa-ysf.medium.com/creating-xcframework-from-swift-package-e8af6f44501f)
-
-3. Article -> [How to create a Swift Package from a CocoaPods project](https://dragosneagu.com/how-to-create-a-swift-package-from-an-existing-cocoapods-project/)
-
-
-## Binary Frameworks
-1. [Apple Docs: Distributing Binary Frameworks as Swift Packages](https://developer.apple.com/documentation/xcode/distributing-binary-frameworks-as-swift-packages)
-
-2. [Medium: Binary Frameworks in Swift — XCFrameworks](https://medium.com/macoclock/binary-frameworks-in-swift-xcframeworks-5bd35f50e13a) 
-
-3. [WWDC 2019: Binary frameworks in Swift](https://developer.apple.com/wwdc19/416)
-  
-4. [WWDC 2020: Distribute Binary frameworks as Swift packages](https://developer.apple.com/wwdc20/10147)
-  
 
 ## Credits
 1. [Raywenderlich -> Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios#toc-anchor-002)
